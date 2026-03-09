@@ -26,10 +26,10 @@
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me
 
 <a href="mailto:mohamed.gallall12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohamed--galal/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Mgalal12" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/galalbytes/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/galalbytes" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://twitter.com/Mohamed_Gallall" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.facebook.com/Mohamed.gallalll/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/galalbytes/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/MohamedGalal" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
 
@@ -51,9 +51,9 @@
 ![MPLAB_X_IDE](https://img.shields.io/badge/MPLAB_X_IDE-1E424C?style=for-the-badge&logoColor=white)&nbsp;
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&theme=outrun&cache_seconds=28800&v=5"
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galalbytes&layout=compact&theme=outrun&cache_seconds=28800&v=5"
        alt="Top Languages" style="margin: 0 12px;" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MohamedGalal-2&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=galalbytes&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
        alt="GitHub Stats" style="margin: 0 12px;" />
 
 <br>
