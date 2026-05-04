@@ -52,8 +52,7 @@
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
   <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=galalbytes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=galalbytes&layout=compact&show_icons=true&theme=outrun&cache_seconds=28800&v=5"
-       alt="GitHub Stats" style="margin: 0 12px;" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galalbytes&layout=compact&langs_count=8&theme=algolia" />
 
 <br>
 
