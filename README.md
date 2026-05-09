@@ -11,7 +11,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 </p> 
 
----
+
 
 👋 I'm **Mohamed Galal** — a final-year **Electronics & Communications Engineering** student at **Beni Suef University**, passionate about automotive embedded software, software quality, and building smart systems.
 
