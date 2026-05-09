@@ -1,15 +1,16 @@
 <h1 align="center">
-   <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical&style=for-the-badge&color=blue" alt="views" />
-   Hi I'm <em>Mohamed Galal</em>! 
-   <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+  <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&style=for-the-badge&color=blue" alt="views" />
+  Hi, I'm <em>Mohamed Galal</em>!
+  <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
 
 <img width="260" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
-</p> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=520&lines=Embedded+%26+Automotive+Software+Engineer;AUTOSAR+%7C+SIL+Kit+%7C+Digital+Twin;Software+Tester+%7C+ISO+26262;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" />
+  </a>
+</p>
 
 👋 I'm **Mohamed Galal** — a final-year **Electronics & Communications Engineering** student at **Beni Suef University**, passionate about automotive embedded software, software quality, and building smart systems.
 
