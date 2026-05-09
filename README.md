@@ -134,12 +134,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedGalal-2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedGalal-2&layout=compact&langs_count=8&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=galalbytes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galalbytes&layout=compact&langs_count=8&theme=algolia" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedGalal-2&theme=algolia" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galalbytes&theme=algolia" alt="streak stats"/>
 </div>
 
 ---
