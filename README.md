@@ -46,7 +46,6 @@
 - 🖥️ 4-ECU CAN network (.dbc) + CAPL test scripts + real-time Speed/RPM/Warning dashboard
 - 🔌 Socket Programming bridge: Python (CARLA) → C++ AUTOSAR algorithm
 - 🛞 Validated on a physical **4WD hardware prototype**
-- ✅ **Results:** 150ms detection-to-brake latency · 100% repeatability (1,000 runs) · 95% ISO 26262 coverage
 
 ---
 
