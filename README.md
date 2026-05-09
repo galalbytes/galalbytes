@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=520&lines=Embedded+%26+Automotive+Software+Engineer;AUTOSAR+%7C+SIL+Kit+%7C+Digital+Twin;Software+Tester+%7C+ISO+26262;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=520&lines=Embedded+%26+Automotive+Software+Engineer;AUTOSAR+%7C+SIL+Kit+%7C+Digital+Twin;Software+Tester+%7C+QA+Engineer;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" />
   </a>
 </p>
 
