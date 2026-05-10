@@ -123,8 +123,8 @@
 | Course | Provider | Status |
 |--------|----------|--------|
 | Classic AUTOSAR In-Depth Diploma | Learn-In-Depth | 🔄 In Progress |
-| Embedded Systems Diploma | Eng. Ahmed Abdelghafar | 🔄 In Progress |
-| Full Embedded Systems Diploma | Eng. Mohamed Zaghloul | ✅ Completed |
+| ARM Embedded Systems Diploma | Eng. Ahmed Abdelghafar | 🔄 In Progress |
+| AVR Embedded Systems Diploma | Eng. Mohamed Zaghloul | ✅ Completed |
 | Software Testing (STLC, TDD, Selenium) | DEPI – Digital Egypt Pioneers | ✅ Completed |
 | OOP Specialization (C++) | University of London – Coursera | ✅ Completed |
 | Nand2Tetris | Hebrew University – Coursera | ✅ Completed |
